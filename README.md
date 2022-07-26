@@ -18,10 +18,17 @@
 
 ### The December season yeilds a slightly different perspective.  While there are only two to three degrees of temperature swing within one standard deviation of the mean the mean is lower than in June (June's 75 degree (F) to December's 71 (F)) this may discourage ice cream sales and with minimums of 56 degrees some days may see no sales of ice cream and the colder temperatures may discourage surfboard rentals as well.  In December temperature swings toward cold days can be as bad as 15 degrees.
 
+### Three Differences
+  - Mean temperature difference is 4 degrees (F) between June and December.
+  - Temperature swings in December can be wider and/or colder.
+  - Days can be just as hot in December and June.
+
 ## Summary
 
-### Days in June are moderate and should see decent sales receipts in both areas if weather is in indication of demand.  December has more troublesome days that may affect demand for ice cream but in general should still be decent for surfboard rentals.
+### Days in June are moderate and should see decent sales receipts in both areas if weather is in indication of demand.  December has more troublesome days that may affect demand for ice cream but in general should still be decent for surfboard rentals.  However, it is recommended that further analysis be conducted.  Precipitation days and the amount on those days will both effect sales areas as people do not generally seek ice cream on rainy days and surfers do not go in due to waste water conditions spilling into the sea.  
 
-### As as side note other factors should be considered in this analysis as wave conditions are more likely to drive rentals than temperature.  Typically winter provides better surfing conditions than summer and this may drive sales despite temperature.  Also it is not impossible to paddle out with an cone of double toffee crunch but it is unlikely to be eating this during a cutback. 
+### The other analysis, though not a part of our dataset, would be to investigate wave conditions as winter swells typically provide better conditions for surf.
+
+#### And lastly, it is not impossible to paddle out with an cone of double toffee crunch but it is unlikely that the surfer be eating this during a cutback. 
 
 
