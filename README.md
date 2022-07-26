@@ -16,9 +16,9 @@
 ### Temperature for December:
 ![](Results/Dec_Statistical_Number.png)
 
-### The December season yeilds a slightly different perspective.  While there are only two to three degrees of temperature swing within one standard deviation of the mean the mean is lower than in June (June's 75 degree (F) to December's 71 (F)) this may discourage ice cream sales and with minimums of 56 degrees some days may see no sales of ice cream and the colder temperatures may discourage surfboard rentals as well.  In December temperature swings toward cold days can be as bad as 15 degrees.
+### The December season yeilds a slightly different perspective.  While there are only two to three degrees of temperature swing within one standard deviation of the mean the mean is lower than in June (June's 75 degree (F) to December's 71 (F)) this may discourage ice cream sales and with minimums of 56 degrees some days may see no sales of ice cream and the colder temperatures may discourage surfboard rentals as well.  In December, temperature swings toward cold days can be as bad as 15 degrees.
 
-### Three Differences
+### Three Differences:
   - Mean temperature difference is 4 degrees (F) between June and December.
   - Temperature swings in December can be wider and/or colder.
   - Days can be just as hot in December and June.
@@ -29,6 +29,10 @@
 
 ### The other analysis, though not a part of our dataset, would be to investigate wave conditions as winter swells typically provide better conditions for surf.
 
-#### And lastly, it is not impossible to paddle out with an cone of double toffee crunch but it is unlikely that the surfer be eating this during a cutback. 
+#### And lastly, it is not impossible to paddle out with an cone of double toffee crunch but it is unlikely that the surfer will be eating this during a cutback; however, a cheater's five would create conditions for adequate consumption.
+
+![](Results/Surf_IceCream.png)
+
+
 
 
