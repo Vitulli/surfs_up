@@ -11,7 +11,7 @@
 ### Temperature for June:
 ![](Results/June_Statistical_Number.png)
 
-### As can be seen the temperature in June is very stable with only two degrees of difference in one standard deviation with the maximum and minimum temperatures only ranging roughly 10 degrees from the mean of XXX which should provide ideal conditions for both ice cream sales and surf board rentals.
+### As can be seen the temperature in June is very stable with only two degrees of difference in one standard deviation with the maximum and minimum temperatures only ranging roughly 10 degrees from the mean of 75 degrees (F) which should provide ideal conditions for both ice cream sales and surf board rentals.
 
 ### Temperature for December:
 ![](Results/Dec_Statistical_Number.png)
